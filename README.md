@@ -2,7 +2,7 @@
 
 To check the resume better. It heaps to describe resume according to job profile. It matches with job profile or not.
 
-**Live Link** - [Click Here](https://huggingface.co/spaces/xiakshay/Invoice_Text_Extrector)
+**Live Link** - [Click Here](https://huggingface.co/spaces/xiakshay/ATS-Checker)
 
 ---
 
